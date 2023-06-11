@@ -1,0 +1,4 @@
+name: NoBurn
+version: '${project.version}'
+main: com.comorichico.noburn.NoBurn
+api-version: '1.20'
